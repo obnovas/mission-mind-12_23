@@ -1,0 +1,8 @@
+name,type,email,phone,address,notes,check_in_frequency
+"Clark Kent","Individual","clark.kent@dailyplanet.com","555-0123","1938 Sullivan Lane, Metropolis","Reporter, prefers meetings during lunch","Weekly"
+"The Justice League","Organization","contact@justiceleague.org","555-0124","Hall of Justice, Washington DC","Monthly team coordination meetings","Monthly"
+"LexCorp","Business","info@lexcorp.com","555-0125","1000 LexCorp Plaza, Metropolis","Tech partnership opportunity","Quarterly"
+"Lois Lane","Individual","lois.lane@dailyplanet.com","555-0126","1940 Park Avenue, Metropolis","Investigative journalist","Weekly"
+"Barbara Gordon","Individual","barbara.gordon@gcpd.gov","555-0127","Gotham City Public Library","Tech consultant","Monthly"
+"Teen Titans","Organization","titans@titans.org","555-0128","Titans Tower, Jump City","Youth mentorship program","Weekly"
+"Queen Industries","Business","contact@queen-industries.com","555-0129","Star City","Green initiatives","Monthly"
